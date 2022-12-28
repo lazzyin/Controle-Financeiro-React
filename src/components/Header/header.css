@@ -1,0 +1,10 @@
+.header-container{
+    height:150px;
+    text-align: center;
+    background:teal;
+}
+
+.header-title{
+    padding-top:20px;
+    color:#fff;
+}
